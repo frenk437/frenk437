@@ -1,16 +1,29 @@
-## Hi there 👋
+# Ciao! Sono Francesco 👋  
 
-<!--
-**frenk437/frenk437** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sono uno studente di Informatica all'Università di Bari. Amo programmare, lavorare su progetti open source e imparare nuove tecnologie.  
 
-Here are some ideas to get you started:
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Cosa faccio  
+
+- Studio **Informatica**  
+
+- Sviluppo in **C++**, **Java**, e ** Python **  
+
+- Contribuisco a progetti open source 
+
+## 🌱 Mi piacerebbe imparare  
+
+- **Machine Learning**  
+
+- **Blockchain**  
+
+- **Sviluppo mobile** 
+
+  
+
+ ## 💬 Come contattarmi  
+
+- Telegram: [@ThxBrownies](http://t.me/ThxBrownies)  
+
+- Discord: [@og.frenk](https://discord.com/users/og.frenk) 
