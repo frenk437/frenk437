@@ -8,7 +8,7 @@ Sono uno studente di Informatica all'Università di Bari. Amo programmare, lavor
 
 - Studio **Informatica**  
 
-- Sviluppo in **C++**, **Java**, e ** Python **  
+- Sviluppo in **C++**, **Java**, e **Python**  
 
 - Contribuisco a progetti open source 
 
