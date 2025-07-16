@@ -18,7 +18,6 @@ Sono uno studente di Informatica all'Università di Bari. Amo programmare, lavor
 
 - **Blockchain**  
 
-- **Sviluppo mobile** 
 
   
 
